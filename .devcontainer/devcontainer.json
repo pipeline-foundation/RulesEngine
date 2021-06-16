@@ -1,5 +1,5 @@
 {
-	"name": "Terminal.Gui Codespace",
+	"name": "RulesEngine Codespace",
 	"image": "mcr.microsoft.com/vscode/devcontainers/dotnet:3.1",
 	"settings": {
 		"terminal.integrated.defaultProfile.linux": "pwsh"
